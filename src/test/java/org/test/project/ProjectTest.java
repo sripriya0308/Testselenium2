@@ -7,6 +7,7 @@ public class ProjectTest {
 		
 		System.out.println("Testing");
 		System.out.println("edit testing");
+		System.out.println("switch branch");
 
 	}
 
