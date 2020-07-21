@@ -11,8 +11,12 @@ public class ProjectTest {
 		System.out.println("git conflict from branch 1");
 
 		System.out.println("switch branch");
+
+		System.out.println("branch1");
+
 		System.out.println("git conflicts");
 		System.out.println("git conflict from branch 2");
+
 
 
 	}
