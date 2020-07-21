@@ -10,6 +10,7 @@ public class ProjectTest {
 		System.out.println("switch branch");
 		System.out.println("git conflicts");
 		System.out.println("git conflict from branch 2");
+		System.out.println("test change 2");
 
 	}
 
